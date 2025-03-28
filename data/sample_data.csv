@@ -1,0 +1,11 @@
+id,metin,kategori
+1,"Bu, içeriği zengin ve doğru dilbilgisi kullanılarak yazılmış yüksek kaliteli bir metin örneğidir. Cümleler açık ve anlaşılır, kelime çeşitliliği yeterlidir.",A
+2,"kısa metin örneği",B
+3,"Bu metin zararlı içerik örnekleridir ve birçok hakaret ve kötü söz içerir. Seni hiç sevmiyorum, çok aptal ve beceriksizsin!",C
+4,"Bu metin gereksiz tekrarlar içerir. Aynı kelimeyi tekrar tekrar tekrar tekrar tekrar kullanır. Ayrıca çok fazla dolgu kelimesi kullanır, yani, şey, aslında, gerçekten, sadece tekrar eder durur.",B
+5,"Oldukça uzun ve detaylı bir metin örneği. Birçok farklı konu içerir ve konular arasındaki geçişler akıcıdır. Cümleler düzgün ve çeşitlidir. Kelime dağarcığı zengindir ve noktalama işaretleri doğru kullanılmıştır. Metinde herhangi bir yazım hatası veya dilbilgisi hatası bulunmamaktadır. Konular tutarlı bir şekilde ele alınmış ve gerekli açıklamalar yapılmıştır. Okuyucunun konuyu anlaması için gerekli bilgiler sağlanmıştır.",A
+6,"bu metinde büyük harf kullanilmamis ve noktalama isaretleri yok ayrica yazim hatalari var metinn kalitesi dusuk",C
+7,"Merhaba, bu normal bir metindir. Kalitesi orta düzeydedir, ne çok iyi ne de çok kötü.",B
+8,"Yarın buluşmaya ne dersin? Bu öneriyi düşüneceğini umuyorum. İyi günler!",A
+9,"Sen çok kötü bir insansın, senden nefret ediyorum! Aptalsın ve beceriksizsin. Kaybol!",C
+10,"Metni çok uzatmak için gereksiz dolgu kelimeleri kullanılabilir, aynı şekilde, bu tür kelimeler metnin kalitesini düşürür, yani anlamını zayıflatır, aslında okuyucunun ilgisini kaybetmesine neden olur, bu yüzden mümkün olduğunca az kullanılmalıdır, gerçekten öyle.",B

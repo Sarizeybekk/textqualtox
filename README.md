@@ -39,6 +39,11 @@ Bu platform, metin verilerini otomatik olarak kalite ve zararlılık açısında
 | [`Helsinki-NLP/opus-mt-tr-en`](https://huggingface.co/Helsinki-NLP/opus-mt-tr-en) | TR-EN çeviri | 🇹🇷 | Yedek |
 | [`sshleifer/distilbart-xsum-12-6`](https://huggingface.co/sshleifer/distilbart-xsum-12-6) | Hafif özetleme | 🇺🇸 | Yedek |
 
+## 🚀 Deployment  
+The application is live on **Hugging Face Spaces!** Try it here:  
+
+👉 **[Veri Kalitesi ve Zararlılık Değerlendirme - Hugging Face](https://huggingface.co/spaces/sarizeybek/textqualtox)**  
+
 ## Kurulum
 
 ### Gereksinimler
